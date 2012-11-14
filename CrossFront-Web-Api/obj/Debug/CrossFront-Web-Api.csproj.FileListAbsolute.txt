@@ -1,6 +1,5 @@
 D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\bin\CrossFront-Web-Api.dll
 D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\bin\CrossFront-Web-Api.pdb
+D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\bin\WebApiContrib.Formatting.Jsonp.dll
 D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\obj\Debug\CrossFront-Web-Api.dll
 D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\obj\Debug\CrossFront-Web-Api.pdb
-D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\bin\WebApiContrib.Formatting.Jsonp.dll
-D:\Websites\CrossFront-Web-Api\CrossFront-Web-Api\obj\Debug\CrossFront-Web-Api.csprojResolveAssemblyReference.cache
